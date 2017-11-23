@@ -1,0 +1,1 @@
+mongod --dbpath "C:\Users\Vels\WebstormProjects\SoftwareTechnologies\SoftwareTechnologies\Mongo\db"
